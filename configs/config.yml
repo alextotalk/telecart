@@ -1,0 +1,8 @@
+MQTT topic: " test/topic"
+
+db:
+  host: "localhost"
+  port: "5436"
+  username: "postgres"
+  dbname: "postgres"
+  sslmode: "disable"
